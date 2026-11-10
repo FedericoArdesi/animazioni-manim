@@ -1,0 +1,15 @@
+.venv/
+.vscode/
+dsa_mod/
+*.zip
+*.tar.gz
+*.rar
+**/media/
+**/__pycache__/
+*.pyc
+Thumbs.db
+.DS_Store
+desktop.ini
+*.mp4
+*.mkv
+*.mov
