@@ -1,0 +1,21 @@
+﻿# Ambiente e IDE
+.venv/
+.vscode/
+
+# Formati video e archivi
+*.mp4
+*.mkv
+*.mov
+*.zip
+*.tar.gz
+*.rar
+
+# Cache Manim
+**/media/
+**/__pycache__/
+*.pyc
+
+# File di sistema
+Thumbs.db
+.DS_Store
+desktop.ini
